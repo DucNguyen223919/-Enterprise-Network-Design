@@ -12,4 +12,10 @@
 
 # Infrastructure IP Addressing
 
-| VLAN | Name | Network | Gateway (HSRP VIP) |
+| Device | Interface | IP Address |
+|------|------|--------|---------|
+| HQ-MLS1 | Vlan10 | 192.168.10.2 |
+| HQ-MLS1 | Vlan10 | 192.168.10.2 |
+| HQ-MLS1 | Vlan10 | 192.168.10.2 |
+| HQ-MLS1 | Vlan10 | 192.168.10.2 |
+
