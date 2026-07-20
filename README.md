@@ -19,6 +19,7 @@ This project was developed to simulate a real world enterprise network environme
 - Access Port Configuration
 - IEEE 802.1Q Trunking
 - Port Security (Sticky MAC)
+- SSH
 
 ## Layer 3
 - Layer 3 Switching
@@ -28,6 +29,7 @@ This project was developed to simulate a real world enterprise network environme
 - WAN Connectivity
 
 ## Network Services
+- HTTP
 - DHCP
 - DHCP Relay
 - DNS Server
@@ -52,4 +54,29 @@ Each site contains:
 - End Devices
 
 Gateway redundancy is implemented using HSRP while routing between sites is handled by OSPF:
+
+# Validation & Testing
+The following functionalities were successfully tested.
+- VLAN Communication
+- Inter-VLAN Routing
+- HSRP Failover
+- OSPF Neighbor Adjacency
+- DHCP Address Assignment
+- DNS Resolution
+- HTTP Connectivity
+- SSH Remote Login
+- Port Security
+
+Screenshots are available in the **screenshots/** directory.
+
+# Future Improvements
+Possible enhancements for future versions:
+- SNMP Monitoring
+- Expand the network
+- Syslog Server
+- NTP
+- IPv6 Support
+- EtherChannel
+- ACL Policies
+- Network Management VLAN
 
