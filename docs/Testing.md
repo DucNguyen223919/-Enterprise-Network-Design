@@ -26,7 +26,7 @@ This document records the validation of all implemented network functions.
 
 # Test 6 - DNS
 - Objective: Verify hostname resolution.
-- Command: ping www.company.local
+- Command: ping www.testing.com
 - Result: PASS
 
 # Test 7 - Web Server
