@@ -12,7 +12,7 @@
 
 # Infrastructure IP Addressing
 
-| Device | Interface | IP Address |
+#| Device | Interface | IP Address |
 |------|------|--------|---------|
 | HQ-MLS1 | Vlan10 | 192.168.10.2 |
 | HQ-MLS1 | Vlan10 | 192.168.10.2 |
