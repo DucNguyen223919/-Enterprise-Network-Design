@@ -2,6 +2,13 @@
 - A Cisco Packet Tracer project that simulates a small enterprise network with redundant gateway architecture, dynamic routing, centralized network services, and secure device management.
 - The project demonstrates common enterprise networking concepts based on Cisco technologies and CCNA-level fundamentals.
 
+# Preview
+## Topology
+
+![Topology](screenshots/0.0_Topology .png)
+
+
+
 # Project Objectives
 This project was developed to simulate a real world enterprise network environment and practice configuring Cisco networking technologies, including:
 - Department-based VLAN segmentation
